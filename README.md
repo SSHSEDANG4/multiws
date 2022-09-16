@@ -7,9 +7,10 @@
 
 # SERVICE
 [![Hits](https://img.shields.io/badge/SSH-WEBSOCKET-RED?style=for-the-badge&logo=cloudflare)](https://github.com/fisabiliyusri/SSHSEDANG4)
-[![Hits](https://img.shields.io/badge/SSH-SLOWDNS-RED?style=for-the-badge&logo=apache)](https://github.com/fisabiliyusri/SSHSEDANG4)
+[![Hits](https://img.shields.io/badge/SSH-SLOWDNS-RED?style=for-the-badge&logo=amazondynamodb)](https://github.com/fisabiliyusri/SSHSEDANG4)
 [![Hits](https://img.shields.io/badge/XRAY-WEBSOCKET-RED?style=for-the-badge&logo=cloudflare)](https://github.com/fisabiliyusri/SSHSEDANG4)
 [![Hits](https://img.shields.io/badge/XRAY-GRPC-RED?style=for-the-badge&logo=cloudflare)](https://github.com/fisabiliyusri/SSHSEDANG4)
+[![Hits](https://img.shields.io/badge/MULTI-PORT-RED?style=for-the-badge&logo=amazonec2)](https://github.com/fisabiliyusri/SSHSEDANG4)
 
 # TESTED ON OS 
 - DEBIAN 10
