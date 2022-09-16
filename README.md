@@ -1,4 +1,4 @@
-# MULTIPORT - WEBSOCKET / SSH / SSL / XRAY
+# MULTIPORT - SSH / SSL / XRAY (WEBSOCKET)
 
 ![Screenshot 2022-09-16 144810](https://user-images.githubusercontent.com/89133643/190586501-442ecc44-cf39-4a42-bbc9-bc4ae11dc9b0.jpg)
 
