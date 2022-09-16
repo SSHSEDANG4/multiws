@@ -5,15 +5,6 @@
 # SCRIPT
 <pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/SSHSEDANG4/multiws/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
-<h2 align="center">Network VPN</h2>
-
-https://img.shields.io/badge/SSH-Direct-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false
-https://img.shields.io/badge/SSH-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false
-
-https://img.shields.io/badge/XRAY-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false
-https://img.shields.io/badge/XRAY-GRPC-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false
-
-</h2>
 
 # TESTED ON OS 
 - DEBIAN 10
