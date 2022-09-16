@@ -1,6 +1,6 @@
 # MULTIPORT - WEBSOCKET / SSH / SSL / XRAY
 
-![Screenshot 2022-09-16 144810](https://user-images.githubusercontent.com/89133643/190585824-c348d9e4-1f51-4fd0-bd57-cd9797bf52d0.jpg)
+![Screenshot 2022-09-16 144810](https://user-images.githubusercontent.com/89133643/190586501-442ecc44-cf39-4a42-bbc9-bc4ae11dc9b0.jpg)
 
 # SCRIPT
 <pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/SSHSEDANG4/multiws/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
