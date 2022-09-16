@@ -7,8 +7,8 @@
 
 # SERVICE
 [![Hits](https://img.shields.io/badge/SSH-WEBSOCKET-RED?style=for-the-badge&logo=cloudflare)](https://github.com/fisabiliyusri/SSHSEDANG4)
+[![Hits](https://img.shields.io/badge/SSH-WEBSOCKET-RED?style=for-the-badge&logo=apache)](https://github.com/fisabiliyusri/SSHSEDANG4)
 [![Hits](https://img.shields.io/badge/XRAY-WEBSOCKET-RED?style=for-the-badge&logo=cloudflare)](https://github.com/fisabiliyusri/SSHSEDANG4)
-[![Hits](https://img.shields.io/badge/XRAY-WEBSOCKET-RED?style=for-the-badge&logo=apache)](https://github.com/fisabiliyusri/SSHSEDANG4)
 
 # TESTED ON OS 
 - DEBIAN 10
