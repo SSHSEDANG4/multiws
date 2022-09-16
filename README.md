@@ -7,10 +7,12 @@
 
 <h2 align="center">Network VPN</h2>
 
-[![Hits](https://img.shields.io/badge/SSH-Direct-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/SSH-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/XRAY-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/XRAY-GRPC-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
+[![Hits](https://img.shields.io/badge/SSH-Direct-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)]
+[![Hits](https://img.shields.io/badge/SSH-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)]
+[![Hits](https://img.shields.io/badge/SSH-Slowdns-F38020?style=for-the-badge&logo=Slowdns&logoColor=white&edge_flat=false)]
+[![Hits](https://img.shields.io/badge/XRAY-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)]
+[![Hits](https://img.shields.io/badge/XRAY-GRPC-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)]
+
 </h2>
 
 # TESTED ON OS 
