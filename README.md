@@ -1,5 +1,10 @@
 # MULTIPORT - WEBSOCKET / SSH / SSL / XRAY
 
+![Screenshot 2022-09-13 183821](https://user-images.githubusercontent.com/89133643/189892111-b68076e6-0971-4f28-ae7c-5951554953dd.jpg)
+
+# SCRIPT
+<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/SSHSEDANG4/multiws/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
+
 <h2 align="center">Network VPN</h2>
 
 [![Hits](https://img.shields.io/badge/SSH-Direct-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
@@ -7,11 +12,6 @@
 [![Hits](https://img.shields.io/badge/XRAY-Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 [![Hits](https://img.shields.io/badge/XRAY-GRPC-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 </h2>
-
-![Screenshot 2022-09-13 183821](https://user-images.githubusercontent.com/89133643/189892111-b68076e6-0971-4f28-ae7c-5951554953dd.jpg)
-
-# SCRIPT
-<pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/SSHSEDANG4/multiws/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
 # TESTED ON OS 
 - DEBIAN 10
