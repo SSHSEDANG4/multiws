@@ -5,6 +5,10 @@
 # SCRIPT
 <pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/SSHSEDANG4/multiws/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
+# SERVICE
+[![Hits](https://img.shields.io/badge/SSH-WEBSOCKET-RED?style=for-the-badge&logo=cloudflare)](https://github.com/fisabiliyusri/SSHSEDANG4)
+[![Hits](https://img.shields.io/badge/XRAY-WEBSOCKET-RED?style=for-the-badge&logo=cloudflare)](https://github.com/fisabiliyusri/SSHSEDANG4)
+[![Hits](https://img.shields.io/badge/XRAY-WEBSOCKET-RED?style=for-the-badge&logo=apache)](https://github.com/fisabiliyusri/SSHSEDANG4)
 
 # TESTED ON OS 
 - DEBIAN 10
