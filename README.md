@@ -2,6 +2,9 @@
 
 ![Screenshot 2022-09-16 144810](https://user-images.githubusercontent.com/89133643/190586501-442ecc44-cf39-4a42-bbc9-bc4ae11dc9b0.jpg)
 
+# UPDATE
+<pre><code>apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot</code></pre>
+
 # SCRIPT
 <pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/SSHSEDANG4/multiws/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh</code></pre>
 
