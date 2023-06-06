@@ -15,7 +15,7 @@ wget "https://github.com/SSHSEDANG4/multiws/raw/main/udpcustom/udp-custom-linux-
 chmod +x /etc/udpp/udp-custom
 
 echo downloading default config
-wget "https://raw.githubusercontent.com/namagithubmu/repomu/main/config.json" -O /etc/udpp/config.json
+wget "https://raw.githubusercontent.com/SSHSEDANG4/multiws/main/udpcustom/config.json" -O /etc/udpp/config.json
 chmod 644 /etc/udpp/config.json
 
 if [ -z "$1" ]; then
