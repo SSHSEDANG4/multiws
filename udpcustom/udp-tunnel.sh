@@ -11,7 +11,7 @@ gem install lolcat
 
 # install udp-custom
 echo downloading udp-custom
-wget "https://github.com/namagithubmu/repomu/raw/main/udp-custom-linux-amd64" -O /etc/udpp/udp-custom
+wget "https://github.com/SSHSEDANG4/multiws/raw/main/udpcustom/udp-custom-linux-amd64" -O /etc/udpp/udp-custom
 chmod +x /etc/udpp/udp-custom
 
 echo downloading default config
